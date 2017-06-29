@@ -292,6 +292,23 @@
 
             </sources>
             <sources dir="${basedir}">
+                <file name="src/resource.js"/>
+                <file name="src/jsList.js"/>
+                <file name="src/Sound.js"/>
+                <file name="src/GameConstants.js"/>
+                <file name="src/logic/FoodManager.js"/>
+                <file name="src/logic/ObstacleManager.js"/>
+                <file name="src/ui/SoundButton.js"/>
+                <file name="src/ui/GameSceneUI.js"/>
+                <file name="src/ui/GameOverUI.js"/>
+                <file name="src/elements/GameBackground.js"/>
+                <file name="src/elements/Hero.js"/>
+                <file name="src/elements/Item.js"/>
+                <file name="src/elements/Obstacle.js"/>
+                <file name="src/scene/MenuScene.js"/>
+                <file name="src/scene/AboutScene.js"/>
+                <file name="src/scene/GameScene.js"/>
+                <file name="src/Game.js"/>
                 <file name="main.js"/>
 
             </sources>
